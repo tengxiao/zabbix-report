@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T08:59:27.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.6" etag="x9LcbLoggOKcEN3h-dcc" type="github"><diagram id="D_cCV9dpQfnS0F5b-NQB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-16T09:05:04.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fvECeUb6qmff5MtstxMm" version="14.8.6" type="github">
+  <diagram id="D_cCV9dpQfnS0F5b-NQB" name="第 1 页">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82cXZZXb9fLqfYn87mi_-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;运维开发组 王秋雨&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-5" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="484" y="270" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-6" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="383" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-8" value="&lt;h1&gt;工具开发 1人&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224" y="390" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-10" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-11" value="&lt;h1&gt;&amp;nbsp;平台开发 2人&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="82cXZZXb9fLqfYn87mi_-12" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="673" y="310" width="10" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
