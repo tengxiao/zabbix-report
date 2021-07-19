@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T07:46:17.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ySDxkhgTWCNF90kQB4ib" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T12:41:04.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="OucxGxVBN6BmpYnBy1yV" version="14.9.0" type="github">
   <diagram id="4HNjT6tQABPMvL2GfKeI" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3FOY5ouKgD52gqeghlp4-1" value="全链路监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="140" width="870" height="50" as="geometry" />
+        <mxCell id="3FOY5ouKgD52gqeghlp4-1" value="权限系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="870" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-6" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="90" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="370" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-9" value="DATAV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="500" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-10" value="智慧监控PORTAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="200" width="90" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="10" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-12" value="CLOUD EYE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="90" height="60" as="geometry" />
+          <mxGeometry x="160" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-13" value="PROMETHEUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="290" width="90" height="60" as="geometry" />
@@ -43,17 +43,38 @@
         <mxCell id="3FOY5ouKgD52gqeghlp4-19" value="智慧监控平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="290" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FOY5ouKgD52gqeghlp4-20" value="数据库存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3FOY5ouKgD52gqeghlp4-20" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FOY5ouKgD52gqeghlp4-21" value="ELK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="430" width="90" height="60" as="geometry" />
+        <mxCell id="3FOY5ouKgD52gqeghlp4-21" value="统一存储MYSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="430" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-22" value="各类API接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="730" height="30" as="geometry" />
+          <mxGeometry x="160" y="380" width="730" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-23" value="CLOUD WATCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-24" value="云监控API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-25" value="监控数据存储&lt;br&gt;InfluxDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-26" value="CMDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-27" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="540" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-28" value="PROMETHEUS&lt;br&gt;EXPOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-29" value="APM AGENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FOY5ouKgD52gqeghlp4-30" value="SECURE AGENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
