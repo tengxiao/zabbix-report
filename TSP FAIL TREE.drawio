@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T07:30:02.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="HvR3EQtrfyk5qKYESMSY" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T07:50:51.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="BIcyQqoR8255XfVLddRR" version="14.9.0" type="github">
   <diagram id="anByoU5Wvzeq4srCwP5I" name="第 1 页">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="O_aqhsqiOCtRfFLMhmQg-4" value="网络故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O_aqhsqiOCtRfFLMhmQg-5" value="核心应用故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O_aqhsqiOCtRfFLMhmQg-5" value="核心服务/组件故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_aqhsqiOCtRfFLMhmQg-6" value="安全攻击" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -257,7 +257,7 @@
           <mxGeometry x="900" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_aqhsqiOCtRfFLMhmQg-110" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="660" width="180" height="280" as="geometry" />
+          <mxGeometry x="590" y="660" width="180" height="260" as="geometry" />
         </mxCell>
         <mxCell id="O_aqhsqiOCtRfFLMhmQg-111" value="NGINX 服务 DOWN" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="702.5" width="120" height="60" as="geometry" />
