@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T12:54:51.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="CGk3h9WfR5_z7Vf6DyDR" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T13:02:08.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="oSXpJQRqp9ue-bGWJcRT" version="14.9.0" type="github">
   <diagram id="4HNjT6tQABPMvL2GfKeI" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3FOY5ouKgD52gqeghlp4-1" value="全链路监控组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="390" height="30" as="geometry" />
+          <mxGeometry x="160" y="160" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-6" value="展示组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="40" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-7" value="公有云平台展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-8" value="GRAFANA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="290" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-9" value="DATAV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="430" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-10" value="统一监控PORTAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="580" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-11" value="监控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="290" width="90" height="60" as="geometry" />
+          <mxGeometry x="40" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-12" value="CLOUD EYE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="90" height="60" as="geometry" />
@@ -41,16 +41,16 @@
           <mxGeometry x="630" y="290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-19" value="智慧监控平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="290" width="110" height="60" as="geometry" />
+          <mxGeometry x="750" y="290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-20" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="430" width="90" height="60" as="geometry" />
+          <mxGeometry x="40" y="430" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-21" value="统一存储MYSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="430" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-22" value="各类API接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="730" height="30" as="geometry" />
+          <mxGeometry x="160" y="380" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-23" value="CLOUD WATCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="100" height="60" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="530" y="430" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-27" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="540" width="90" height="60" as="geometry" />
+          <mxGeometry x="40" y="540" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FOY5ouKgD52gqeghlp4-28" value="PROMETHEUS&lt;br&gt;EXPOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="540" width="90" height="60" as="geometry" />
@@ -79,11 +79,11 @@
         <mxCell id="3FOY5ouKgD52gqeghlp4-31" value="LOG BEATS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FOY5ouKgD52gqeghlp4-32" value="智慧监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="160" width="320" height="30" as="geometry" />
+        <mxCell id="3FOY5ouKgD52gqeghlp4-33" value="智慧监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FOY5ouKgD52gqeghlp4-33" value="智慧监控PORTAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="200" width="90" height="60" as="geometry" />
+        <mxCell id="3FOY5ouKgD52gqeghlp4-35" value="CLOUD API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="540" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
