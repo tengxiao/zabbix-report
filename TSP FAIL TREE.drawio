@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T03:05:40.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="dMPHefc33t3o6ZYWDvE7" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T03:07:52.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="sQD0f5iLDQQIDowcS3hH" version="14.9.0" type="github">
   <diagram id="anByoU5Wvzeq4srCwP5I" name="第 1 页">
     <mxGraphModel dx="3076" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="G8OEt1g1byKUJxRQTMor-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O_aqhsqiOCtRfFLMhmQg-5" target="O_aqhsqiOCtRfFLMhmQg-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_aqhsqiOCtRfFLMhmQg-5" value="核心服务/组件故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O_aqhsqiOCtRfFLMhmQg-5" value="核心组件故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O_aqhsqiOCtRfFLMhmQg-6" value="安全攻击" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -288,7 +288,7 @@
         <mxCell id="G8OEt1g1byKUJxRQTMor-5" value="EMQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r0ctqL-Ryl0j2-bq6jcr-1" value="第三方服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r0ctqL-Ryl0j2-bq6jcr-1" value="核心服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1740" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
