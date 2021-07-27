@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T05:52:21.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.9.2" etag="jAT1Uwc_yMeP_wrHPnV7" type="github"><diagram id="056jmLY4Y2yCJHEtE66o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-27T05:57:09.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="22aVwd6ekwKAJ12aY0gO" version="14.9.2" type="github">
+  <diagram id="056jmLY4Y2yCJHEtE66o" name="第 1 页">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gsji9JIxMQPLCAUvudcQ-2" value="长城汽车海外TSP FAIL TREE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gsji9JIxMQPLCAUvudcQ-3" value="T盒业务故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsji9JIxMQPLCAUvudcQ-4" value="T盒无法登陆" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsji9JIxMQPLCAUvudcQ-6" value="T盒设备故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsji9JIxMQPLCAUvudcQ-7" value="T盒解码异常" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
