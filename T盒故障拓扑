@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T07:37:19.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="OQZua9yTT06dcKwEE0zI" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T07:37:45.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="-fgkahXqizMuTzj2jKM2" version="14.9.2" type="github">
   <diagram id="056jmLY4Y2yCJHEtE66o" name="第 1 页">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
         <mxCell id="gsji9JIxMQPLCAUvudcQ-85" value="SIM故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-900" y="635" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gsji9JIxMQPLCAUvudcQ-87" value="PKI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gsji9JIxMQPLCAUvudcQ-87" value="PKI故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="770" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gsji9JIxMQPLCAUvudcQ-89" value="bt-gateway-server服务DOWN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
