@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T02:48:35.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="m8R4Zg1BSNvVqfWk0jKa" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T02:55:33.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="J9GZRmEia6aHxA00CBIb" version="15.0.4" type="github">
   <diagram id="WiYSkN_PFwNk-PM7Bung" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FVEBcc7aUKqD7q0rElV4-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-299" y="710" width="198" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="FVEBcc7aUKqD7q0rElV4-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-734" y="565" width="388" height="205" as="geometry" />
         </mxCell>
@@ -58,7 +61,10 @@
         <mxCell id="FVEBcc7aUKqD7q0rElV4-15" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;imageBorder=#000000;" vertex="1" parent="1">
           <mxGeometry x="-320" y="360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FVEBcc7aUKqD7q0rElV4-27" value="工厂专线故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FVEBcc7aUKqD7q0rElV4-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FVEBcc7aUKqD7q0rElV4-27" target="FVEBcc7aUKqD7q0rElV4-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVEBcc7aUKqD7q0rElV4-27" value="网络故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="600" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVEBcc7aUKqD7q0rElV4-34" value="FGWM车辆入库数据同步故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -105,6 +111,15 @@
         </mxCell>
         <mxCell id="FVEBcc7aUKqD7q0rElV4-57" value="第三方网关故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVEBcc7aUKqD7q0rElV4-78" value="图拉工厂专线故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="760" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVEBcc7aUKqD7q0rElV4-79" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;imageBorder=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVEBcc7aUKqD7q0rElV4-81" value="工厂专线故障" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="840" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
