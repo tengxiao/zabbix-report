@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T01:50:07.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="t8_hv-5CTHfDCz0Xx-Em" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T01:53:02.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="TC2V9UBNdNSq6hmpDyZV" version="15.1.2" type="github">
   <diagram id="tznZErBPPmd9m9mybXFn" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="WTTCFvEiVQJhgHqV70Xt-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Python&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="415" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WTTCFvEiVQJhgHqV70Xt-10" value="&lt;font color=&quot;#67839c&quot; face=&quot;helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;istio网关&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="WTTCFvEiVQJhgHqV70Xt-10" value="&lt;font color=&quot;#67839c&quot; face=&quot;helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;服务网关&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="332.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="WTTCFvEiVQJhgHqV70Xt-16" value="&lt;font color=&quot;#67839c&quot; face=&quot;helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Mysql&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
