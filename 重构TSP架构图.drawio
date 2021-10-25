@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T08:06:33.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="hJGnie30-Fo5vcTB3oLu" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:14:21.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="3-ibxlslSZmnXymVKW44" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2442" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-129" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="403.83" width="590" height="496.17" as="geometry" />
+        </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-127" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2330" y="417" width="420" height="133" as="geometry" />
         </mxCell>
@@ -334,20 +337,92 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-128" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3650" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-129" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="364" width="640" height="550" as="geometry" />
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-130" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;个人信息管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="437" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-130" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;整车商城&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="398.5" width="90" height="40" as="geometry" />
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-131" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;用户空间&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="438.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-131" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;整车商城&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2975" y="398.5" width="90" height="40" as="geometry" />
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-132" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的粉丝&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="438.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-132" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;整车商城&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3090" y="398.5" width="90" height="40" as="geometry" />
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-133" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的关注&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3218" y="438.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-133" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;整车商城&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3210" y="398.5" width="90" height="40" as="geometry" />
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-134" value="网络故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="17.99999999999997" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-136" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="3063.12" y="360" width="63.75" height="43.83" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-137" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的获赞&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="492" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-138" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;每日签到&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="498" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-139" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;积分任务&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="498" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-140" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;积分记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3218" y="498" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-141" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的动态&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="555.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-142" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的活动&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="557" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-143" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的收藏&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="557" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-144" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的点赞&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3218" y="557" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-145" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;消息中心&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="617.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-146" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;公告信息&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="619" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-147" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;服务信息&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="619" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-148" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;活动信息&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3218" y="619" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-149" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;社区提醒&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="676.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-150" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;服务订单&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="678" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-151" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;商品订单&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="678" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-152" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;整车订单&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="678" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-154" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的车辆&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2866" y="738.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-155" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的邀约&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="738" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-156" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的邀约&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="740" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-157" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;系统设置&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="738" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-158" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;关联账号设置&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-159" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;绑定邮箱&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2983" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-161" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;修改密码&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098" y="800" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
