@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T08:16:33.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jjDSE94CJsCBnPFNfPMI" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:17:58.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="OMaGLSlvvSD6mtgrc8wB" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2442" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-129" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="420" width="1070" height="480" as="geometry" />
+          <mxGeometry x="2790" y="420" width="710" height="460" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-127" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2330" y="417" width="420" height="133" as="geometry" />
@@ -280,7 +280,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-107" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-600" y="290" as="sourcePoint" />
-            <mxPoint x="3500" y="290" as="targetPoint" />
+            <mxPoint x="3880" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-109" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;rotation=-90;" vertex="1" parent="1">
@@ -447,6 +447,21 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-169" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;忘记密码&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3340" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-170" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="3663.13" y="350" width="63.75" height="43.83" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-171" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="417" width="320" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-172" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;APP强制更新&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="436.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-173" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;运营身份权限标识&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3663.13" y="436.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-174" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;统计埋点&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="436.5" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
