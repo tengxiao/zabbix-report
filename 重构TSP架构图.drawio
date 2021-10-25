@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T08:18:17.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="gCeDHj7XMnkwHlQxey27" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:18:51.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SF--ifnL7nYrWttnoPRj" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2442" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="1080" y="-410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-4" value="APP运行故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-140.00000000000003" width="90" height="40" as="geometry" />
+          <mxGeometry x="-280" y="306" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-11" value="或闸" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2880" y="1494.99" width="60" height="30" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1090.25" y="-330.0000000000001" width="77.5" height="53.28" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-29" value="登陆故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="17.99999999999997" width="90" height="40" as="geometry" />
+          <mxGeometry x="-350" y="464" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-30" value="社区功能故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="90" height="40" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="920" y="300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-35" value="程序崩溃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1006.88" y="17.99999999999997" width="90" height="40" as="geometry" />
+          <mxGeometry x="-203.12" y="464" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-36" value="无效token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="853.13" y="123.99999999999997" width="90" height="40" as="geometry" />
@@ -124,21 +124,21 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-51" target="6elNYPJr9ZTZkZdLtBfF-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="975" y="-2.842170943040401e-14" />
-              <mxPoint x="905" y="-2.842170943040401e-14" />
+              <mxPoint x="-235" y="446" />
+              <mxPoint x="-305" y="446" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-51" target="6elNYPJr9ZTZkZdLtBfF-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="975" y="-2.842170943040401e-14" />
-              <mxPoint x="1052" y="-2.842170943040401e-14" />
+              <mxPoint x="-235" y="446" />
+              <mxPoint x="-158" y="446" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-51" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="943.13" y="-70.00000000000003" width="63.75" height="43.83" as="geometry" />
+          <mxGeometry x="-266.87" y="376" width="63.75" height="43.83" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-55" value="售后故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="300" width="90" height="40" as="geometry" />
@@ -350,7 +350,7 @@
           <mxGeometry x="3218" y="438.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-134" value="网络故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="17.99999999999997" width="90" height="40" as="geometry" />
+          <mxGeometry x="-59" y="464" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-136" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="3063.12" y="360" width="63.75" height="43.83" as="geometry" />
