@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T08:58:27.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Pu2WdzGgyKgZkcE2j8lG" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T09:07:07.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="gTJ-R1lY8xLEn2bQTZDU" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2442" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -34,21 +34,21 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-4" target="6elNYPJr9ZTZkZdLtBfF-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-158" y="370" />
-              <mxPoint x="-305" y="370" />
+              <mxPoint x="532" y="-50" />
+              <mxPoint x="385" y="-50" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-4" target="6elNYPJr9ZTZkZdLtBfF-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-158" y="370" />
-              <mxPoint x="-14" y="370" />
+              <mxPoint x="532" y="-50" />
+              <mxPoint x="676" y="-50" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-4" value="APP运行故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-203.12" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="486.88" y="-120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-11" value="或闸" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2880" y="1494.99" width="60" height="30" as="geometry" />
@@ -77,34 +77,18 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-22" value="图例：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2760" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-29" target="6elNYPJr9ZTZkZdLtBfF-183">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="34" as="sourcePoint" />
+            <mxPoint x="546" y="204" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-305" y="810" />
-              <mxPoint x="195" y="810" />
+              <mxPoint x="385" y="114" />
+              <mxPoint x="546" y="114" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-211" value="&lt;b style=&quot;background-color: rgb(212 , 225 , 245)&quot;&gt;新用户注册入口&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6elNYPJr9ZTZkZdLtBfF-199">
-          <mxGeometry x="0.7138" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;startArrow=none;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-208" target="6elNYPJr9ZTZkZdLtBfF-181">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-305" y="810" />
-              <mxPoint x="790" y="810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-212" value="&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;background-color: rgb(212 , 225 , 245)&quot;&gt;已注册用户&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6elNYPJr9ZTZkZdLtBfF-200">
-          <mxGeometry x="0.7962" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-29" value="登陆故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="410" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="-10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-30" target="6elNYPJr9ZTZkZdLtBfF-50">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +106,7 @@
           <mxGeometry x="920" y="300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-35" value="程序崩溃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-203.12" y="410" width="90" height="40" as="geometry" />
+          <mxGeometry x="486.88" y="-10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-36" value="无效token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="853.13" y="123.99999999999997" width="90" height="40" as="geometry" />
@@ -364,11 +348,11 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-133" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的关注&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3218" y="384.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-134" target="6elNYPJr9ZTZkZdLtBfF-208">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-134" target="6elNYPJr9ZTZkZdLtBfF-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-134" value="网络故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="410" width="90" height="40" as="geometry" />
+          <mxGeometry x="631" y="-10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-137" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我的获赞&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2864" y="438" width="90" height="40" as="geometry" />
@@ -510,8 +494,25 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-206" value="bt-app-gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1200" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-208" target="6elNYPJr9ZTZkZdLtBfF-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="220" />
+              <mxPoint x="-180" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-208" target="6elNYPJr9ZTZkZdLtBfF-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="220" />
+              <mxPoint x="-70" y="990" />
+              <mxPoint x="790" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-208" value="ROUTE 53 (DNS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-99" y="786" width="170" height="40" as="geometry" />
+          <mxGeometry x="461" y="200" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-213" value="bt-app-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1330" width="170" height="50" as="geometry" />
@@ -539,6 +540,9 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-222" value="bt-h5-gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="1200" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-228" value="&lt;b&gt;已注册用户入口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="980" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
