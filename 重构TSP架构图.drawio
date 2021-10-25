@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T08:18:51.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SF--ifnL7nYrWttnoPRj" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:20:29.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="mSTSmx8Pc2BB8OJZYh8i" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2442" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -258,24 +258,24 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-98" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-560" y="1240" as="sourcePoint" />
-            <mxPoint x="3002" y="1230" as="targetPoint" />
+            <mxPoint x="-592" y="1730" as="sourcePoint" />
+            <mxPoint x="2970" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-99" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="990" width="90" height="40" as="geometry" />
+          <mxGeometry x="-510" y="1190" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-100" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-560" y="1504.99" as="sourcePoint" />
-            <mxPoint x="3002" y="1494.99" as="targetPoint" />
+            <mxPoint x="-622" y="1990" as="sourcePoint" />
+            <mxPoint x="2940" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-103" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-490" y="517" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-106" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="1420" width="90" height="40" as="geometry" />
+          <mxGeometry x="-550" y="1930" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-107" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -462,6 +462,12 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-174" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;统计埋点&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3760" y="436.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-175" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520.01" y="960" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-176" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="990" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
