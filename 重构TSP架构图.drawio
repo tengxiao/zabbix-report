@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T02:26:53.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SZqKAQy7x53q8kuc2-bH" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T02:30:14.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZEoZDnG36pv-pzyOzAfV" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2273" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -258,15 +258,15 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-100" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-560" y="2000" as="sourcePoint" />
-            <mxPoint x="3002" y="1990" as="targetPoint" />
+            <mxPoint x="-560" y="2040" as="sourcePoint" />
+            <mxPoint x="3002" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-103" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-530" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-106" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="1930" width="90" height="40" as="geometry" />
+          <mxGeometry x="-520" y="1950" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-107" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -462,7 +462,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-203" target="6elNYPJr9ZTZkZdLtBfF-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-203" value="NGINX SERVER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-203" value="NGINX SERVER（证书卸载）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1110" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-206" target="6elNYPJr9ZTZkZdLtBfF-213">
@@ -574,10 +574,10 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#D4E1F5;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-251" target="6elNYPJr9ZTZkZdLtBfF-261">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-251" value="gwm-pki-api-presentation&lt;br&gt;证书服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-251" value="gwm-pki-api-presentation&lt;br&gt;证书服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1460" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-261" value="PKI（外部系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-261" value="PKI（外部系统）故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1590" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#D4E1F5;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-271" target="6elNYPJr9ZTZkZdLtBfF-275">
@@ -586,7 +586,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-271" value="bt-vehicle-remotecontrol-service&lt;br&gt;远控服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1460" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-275" value="CMP(外部系统)&lt;br&gt;短信服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-275" value="CMP(外部系统)&lt;br&gt;短信服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1590" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-277" value="bt-vehicle-diagnose-service&lt;br&gt;远程诊断服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -597,8 +597,8 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-280" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-400" y="1730" as="sourcePoint" />
-            <mxPoint x="3881" y="1720" as="targetPoint" />
+            <mxPoint x="-400" y="1720" as="sourcePoint" />
+            <mxPoint x="3881" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
