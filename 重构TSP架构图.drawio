@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T03:33:33.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SFilieHU6DqSBbI7PI6I" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T03:34:40.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jOh3G4v0ZoPIaq80RCwh" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2414" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -252,8 +252,8 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-98" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-590" y="1790" as="sourcePoint" />
-            <mxPoint x="2972" y="1780" as="targetPoint" />
+            <mxPoint x="-590" y="1800" as="sourcePoint" />
+            <mxPoint x="2972" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-99" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -625,6 +625,9 @@
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-20" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1510" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-22" value="AWS终端节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="889.9999999999999" y="1510" width="83.13" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
