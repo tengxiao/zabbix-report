@@ -1,9 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T13:08:58.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="AFV_8KltlKj9mjg-jt42" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T13:23:42.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BjgeHc8yKWpB3v0D-UZs" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2190" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="1" style="" parent="0" />
         <mxCell id="nJZEPm9KAdilQFLufLrE-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1310" width="1290" height="770" as="geometry" />
         </mxCell>
@@ -102,9 +102,13 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#1A1A1A;strokeWidth=1;strokeColor=default;endArrow=oval;endFill=0;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-29" target="nJZEPm9KAdilQFLufLrE-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-29" value="登陆/注册故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-281" y="420" width="90" height="40" as="geometry" />
-        </mxCell>
+        <object label="登陆/注册故障" biz="用户登录" id="6elNYPJr9ZTZkZdLtBfF-29">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;autosize=0;treeFolding=0;movableLabel=0;treeMoving=0;comic=0;jiggle=0;resizeHeight=0;backgroundOutline=0;collapsible=1;movable=1;resizable=0;absoluteArcSize=0;portConstraintRotation=0;snapToPoint=0;metaEdit=0;" parent="1" vertex="1">
+            <mxGeometry x="-281" y="420" width="90" height="40" as="geometry">
+              <mxRectangle x="-281" y="420" width="110" height="20" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
         <mxCell id="nJZEPm9KAdilQFLufLrE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#1A1A1A;endArrow=oval;endFill=0;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-30" target="6elNYPJr9ZTZkZdLtBfF-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -425,9 +429,11 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-167" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;邮箱登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="560" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-168" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;用户ID登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="503" width="90" height="40" as="geometry" />
-        </mxCell>
+        <object label="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;用户ID登录&lt;/span&gt;&lt;/font&gt;" biz="用户登录" id="6elNYPJr9ZTZkZdLtBfF-168">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="-340" y="503" width="90" height="40" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-169" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;忘记密码&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2980" y="742" width="90" height="40" as="geometry" />
         </mxCell>
@@ -512,7 +518,7 @@
           <mxGeometry x="-350" y="1205" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-217" value="中台层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="1510" width="90" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-219" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -833,7 +839,7 @@
             <mxPoint x="515" y="1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;第三方登录&lt;/span&gt;&lt;/font&gt;" id="nJZEPm9KAdilQFLufLrE-130">
+        <UserObject label="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;第三方登录&lt;/span&gt;&lt;/font&gt;" biz="用户登录" id="nJZEPm9KAdilQFLufLrE-130">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="-220" y="563.5" width="90" height="35" as="geometry" />
           </mxCell>
