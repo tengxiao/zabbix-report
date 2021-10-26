@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T01:59:13.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CckHlbHXtRuJOi2uD94Z" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T02:02:46.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Kd6NSJ0AI6q8Y0Hg_xfL" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2273" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -499,6 +499,9 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;fillColor=#D4E1F5;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="6elNYPJr9ZTZkZdLtBfF-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#D4E1F5;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="6elNYPJr9ZTZkZdLtBfF-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-213" value="bt-app-api&lt;br&gt;app聚合层服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1330" width="170" height="50" as="geometry" />
         </mxCell>
@@ -586,7 +589,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-261" value="PKI（外部系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1590" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-271" value="bt-vehicle-coredata-service&lt;br&gt;网关配置服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-271" value="bt-vehicle-remotecontrol-service&lt;br&gt;远控服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1460" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
