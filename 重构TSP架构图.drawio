@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T01:49:18.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="RW6GxYYnqx3GhTNC_bhl" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T01:51:29.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="H2f7WdbT5MMR0Vp9tkEI" version="15.5.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1989" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -588,6 +588,9 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-261" value="PKI（外部系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1590" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-271" value="bt-vehicle-coredata-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1460" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
