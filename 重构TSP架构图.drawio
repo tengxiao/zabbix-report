@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T10:30:02.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="i0ekGbSxp5pmpFB50xKn" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T12:38:09.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CENJ1G26L5w9K7rn7HZc" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="2176" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,9 +728,11 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-85" target="nJZEPm9KAdilQFLufLrE-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-85" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-message-sms-servce&lt;br&gt;短信服务故障&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1620" width="140" height="50" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-message-sms-servce&lt;br&gt;短信服务故障&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/AQcV" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-85">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="800" y="1620" width="140" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="nJZEPm9KAdilQFLufLrE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-90" target="nJZEPm9KAdilQFLufLrE-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -760,12 +762,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-97" target="nJZEPm9KAdilQFLufLrE-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="41" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-user-account&lt;br&gt;用户中心服务故障&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/NhfJ" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-97">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="-27" y="1550" width="136" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-98" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-operation-support&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJZEPm9KAdilQFLufLrE-98" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-operation-support&lt;br&gt;协议管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-214.12" y="1550" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-101" value="REDIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -810,6 +819,9 @@
             <mxGeometry x="-220" y="563.5" width="90" height="35" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-131" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-common-uniqueid-service 注册gwid&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-214.12" y="1620" width="136" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
