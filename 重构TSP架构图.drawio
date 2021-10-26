@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T05:24:24.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TKtJSzOkExM33x8BXy5b" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T05:31:34.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9zoTSYL9mYI_EhRzmdyE" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2176" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -492,7 +492,7 @@
             <mxPoint x="877" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=24;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="nJZEPm9KAdilQFLufLrE-22">
+        <mxCell id="nJZEPm9KAdilQFLufLrE-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=13;fontColor=#1A1A1A;strokeWidth=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="nJZEPm9KAdilQFLufLrE-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="1535" />
@@ -631,7 +631,7 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;华为TSP&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1055" y="1310" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=24;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-13" target="nJZEPm9KAdilQFLufLrE-5">
+        <mxCell id="nJZEPm9KAdilQFLufLrE-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;strokeWidth=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-13" target="nJZEPm9KAdilQFLufLrE-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-13" value="远控唤醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -651,17 +651,11 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-20" value="KAFKA&lt;br&gt;车况，在线，远控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1510" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=24;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-22" target="nJZEPm9KAdilQFLufLrE-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nJZEPm9KAdilQFLufLrE-22" value="AWS终端节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="1550" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-22" value="AWS终端节点故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="889.9999999999999" y="1510" width="83.13" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=24;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-24" target="nJZEPm9KAdilQFLufLrE-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-24" value="AWS终端节点故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1510" width="83.13" height="50" as="geometry" />
+        <mxCell id="nJZEPm9KAdilQFLufLrE-24" value="AWS终端节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=24;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-33" target="nJZEPm9KAdilQFLufLrE-35">
           <mxGeometry relative="1" as="geometry" />
