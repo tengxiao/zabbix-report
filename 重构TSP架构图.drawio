@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T12:38:09.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CENJ1G26L5w9K7rn7HZc" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T12:39:19.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-eoX-QlRCPaKsVjuVtLz" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2341" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="nJZEPm9KAdilQFLufLrE-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1310" width="1290" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-135" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-226.12" y="1540" width="536.12" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-74" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-381" y="490" width="290" height="140" as="geometry" />
@@ -821,6 +824,9 @@
         </UserObject>
         <mxCell id="nJZEPm9KAdilQFLufLrE-131" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-common-uniqueid-service 注册gwid&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-214.12" y="1620" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-136" value="&lt;font style=&quot;font-size: 15px&quot;&gt;用户中心&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#D4E1F5;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="231" y="1640" width="79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
