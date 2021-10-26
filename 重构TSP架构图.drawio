@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T03:06:19.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="JmoH3PfS8_YOhkhTUEql" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T03:12:43.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Hho5qkN_thkrqEIb6GPG" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="2389" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3032" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nJZEPm9KAdilQFLufLrE-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-145.99" y="1450" width="1190" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;fillColor=#D4E1F5;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-254" target="6elNYPJr9ZTZkZdLtBfF-184" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -246,8 +249,8 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-98" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-560" y="1900" as="sourcePoint" />
-            <mxPoint x="3002" y="1890" as="targetPoint" />
+            <mxPoint x="-560" y="2140" as="sourcePoint" />
+            <mxPoint x="3002" y="2130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-99" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -255,8 +258,8 @@
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-100" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-560" y="2040" as="sourcePoint" />
-            <mxPoint x="3002" y="2030" as="targetPoint" />
+            <mxPoint x="-536" y="2280" as="sourcePoint" />
+            <mxPoint x="3026" y="2270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-103" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -483,7 +486,7 @@
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-2" value="APN2专线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=17;" vertex="1" connectable="0" parent="6elNYPJr9ZTZkZdLtBfF-249">
           <mxGeometry x="-0.9385" y="-4" relative="1" as="geometry">
-            <mxPoint x="47" y="-4" as="offset" />
+            <mxPoint x="877" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;fillColor=#D4E1F5;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="6elNYPJr9ZTZkZdLtBfF-251" edge="1">
@@ -574,12 +577,12 @@
           <mxGeometry x="-10" y="1590" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-279" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="1800" width="90" height="40" as="geometry" />
+          <mxGeometry x="-360" y="2033.33" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-280" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-400" y="1720" as="sourcePoint" />
-            <mxPoint x="3881" y="1710" as="targetPoint" />
+            <mxPoint x="-410" y="1980" as="sourcePoint" />
+            <mxPoint x="3871" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-3" value="&lt;b style=&quot;background-color: rgb(212 , 225 , 245)&quot;&gt;未注册用户入口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
@@ -591,10 +594,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-5" value="CMP(外部系统)&lt;br&gt;短信服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1520" width="170" height="50" as="geometry" />
+          <mxGeometry x="430" y="1550" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-8" value="应用接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494.01" y="1460" width="170" height="50" as="geometry" />
+          <mxGeometry x="430" y="1460" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-10" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1450" width="1190" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
