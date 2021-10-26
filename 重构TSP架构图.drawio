@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T07:42:48.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5epCmqoNykdlC0uFPQ5m" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T07:46:59.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vg4T_9gBWaGel1Jsyl53" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2247" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-165" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;版本更新&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3340" y="503" width="90" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;手机注册登录&lt;/span&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/1Ks0AQ" linkTarget="_blank" id="6elNYPJr9ZTZkZdLtBfF-166">
+        <UserObject label="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;手机注册登录&lt;/span&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/1Ks0AQ" linkTarget="验证码登录文档" id="6elNYPJr9ZTZkZdLtBfF-166">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-220" y="503" width="90" height="40" as="geometry" />
           </mxCell>
@@ -505,7 +505,7 @@
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-119" value="存储TOKEN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="nJZEPm9KAdilQFLufLrE-106">
           <mxGeometry x="0.4434" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="66" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-213" value="bt-app-api&lt;br&gt;app聚合层服务故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
