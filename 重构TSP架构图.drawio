@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T02:57:32.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BUMih-fjLq9mlkBNHDQy" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T03:02:13.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="T5epFpzrqx2-u3OUxfBZ" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2389" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -489,9 +489,6 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;fillColor=#D4E1F5;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="6elNYPJr9ZTZkZdLtBfF-251" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#D4E1F5;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="6elNYPJr9ZTZkZdLtBfF-271" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-213" value="bt-app-api&lt;br&gt;app聚合层服务故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1330" width="170" height="50" as="geometry" />
         </mxCell>
@@ -502,7 +499,7 @@
           <mxGeometry x="-350" y="1205" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-217" value="中台层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="1500" width="90" height="40" as="geometry" />
+          <mxGeometry x="-350" y="1510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-219" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -576,18 +573,6 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-261" value="PKI（外部系统）故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="1590" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#D4E1F5;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-271" target="6elNYPJr9ZTZkZdLtBfF-275" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-271" value="bt-vehicle-remotecontrol-service&lt;br&gt;远控服务故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="1460" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-275" value="CMP(外部系统)&lt;br&gt;短信服务故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="1590" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-277" value="bt-vehicle-diagnose-service&lt;br&gt;远程诊断服务故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="1460" width="170" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-279" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-350" y="1800" width="90" height="40" as="geometry" />
         </mxCell>
@@ -604,6 +589,12 @@
           <mxGeometry x="769.9982352941175" y="980" as="geometry">
             <mxPoint x="25" y="19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-5" value="CMP(外部系统)&lt;br&gt;短信服务故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1520" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-8" value="应用接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1450" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
