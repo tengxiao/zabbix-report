@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T06:17:17.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BMG_IH8xpJ06E7a-w-8p" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T06:58:09.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="B5oXT01-odYqovaq2m_E" version="15.5.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-250" y="1303.33" width="1290" height="770" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-138" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1709" width="199.06" height="140" as="geometry" />
+          <mxGeometry x="-227.06" y="1709" width="536.12" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-135" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-226.12" y="1540" width="536.12" height="140" as="geometry" />
@@ -96,13 +96,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-4" value="APP运行故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-4" value="APP运行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-134.12" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#1A1A1A;strokeWidth=1;strokeColor=default;endArrow=oval;endFill=0;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-29" target="nJZEPm9KAdilQFLufLrE-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="登陆/注册故障" biz="用户登录" id="6elNYPJr9ZTZkZdLtBfF-29">
+        <object label="登陆/注册" biz="用户登录" id="6elNYPJr9ZTZkZdLtBfF-29">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;autosize=0;treeFolding=0;movableLabel=0;treeMoving=0;comic=0;jiggle=0;resizeHeight=0;backgroundOutline=0;collapsible=1;movable=1;resizable=0;absoluteArcSize=0;portConstraintRotation=0;snapToPoint=0;metaEdit=0;" parent="1" vertex="1">
             <mxGeometry x="-281" y="420" width="90" height="40" as="geometry">
               <mxRectangle x="-281" y="420" width="110" height="20" as="alternateBounds" />
@@ -112,7 +112,7 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#1A1A1A;endArrow=oval;endFill=0;strokeColor=default;strokeWidth=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-30" target="6elNYPJr9ZTZkZdLtBfF-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-30" value="社区功能故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-30" value="社区功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-33" target="6elNYPJr9ZTZkZdLtBfF-58" edge="1">
@@ -121,7 +121,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-33" target="6elNYPJr9ZTZkZdLtBfF-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-33" value="体验中心功能故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-33" value="体验中心功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="313.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-35" value="程序崩溃" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-37" target="6elNYPJr9ZTZkZdLtBfF-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-37" value="爱车功能故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-37" value="爱车功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="316" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-38" value="&lt;div&gt;热门-Hot&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
@@ -481,7 +481,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-206" target="6elNYPJr9ZTZkZdLtBfF-213" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-206" value="bt-app-gateway&lt;br&gt;app网关故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-206" value="bt-app-gateway&lt;br&gt;app网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1200" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=13;fontColor=#1A1A1A;strokeWidth=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="nJZEPm9KAdilQFLufLrE-8" edge="1">
@@ -495,7 +495,7 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="nJZEPm9KAdilQFLufLrE-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-213" value="bt-app-api&lt;br&gt;app聚合层服务故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-213" value="bt-app-api&lt;br&gt;app聚合层服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1330" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-215" value="聚合层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -516,10 +516,10 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-220" target="6elNYPJr9ZTZkZdLtBfF-222" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-220" value="NGINX-CTROLLER&lt;br&gt;K8S ingress控制器故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-220" value="NGINX-CTROLLER&lt;br&gt;K8S ingress控制器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1060" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6elNYPJr9ZTZkZdLtBfF-222" value="bt-h5-gateway&lt;br&gt;h5网关故障" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6elNYPJr9ZTZkZdLtBfF-222" value="bt-h5-gateway&lt;br&gt;h5网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="1200" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-232" value="" style="shape=link;html=1;rounded=0;endArrow=oval;endFill=0;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" edge="1">
@@ -596,8 +596,8 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-5" target="nJZEPm9KAdilQFLufLrE-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-5" value="&lt;font style=&quot;font-size: 13px&quot;&gt;gwm-cmp-service&lt;br&gt;短信服务故障&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1630" width="136" height="40" as="geometry" />
+        <mxCell id="nJZEPm9KAdilQFLufLrE-5" value="&lt;font style=&quot;font-size: 13px&quot;&gt;gwm-cmp-service&lt;br&gt;短信服务&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="574" y="1720" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;dashed=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-8" target="nJZEPm9KAdilQFLufLrE-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -630,9 +630,6 @@
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;华为TSP&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1055" y="1300" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-13" target="nJZEPm9KAdilQFLufLrE-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-13" value="远控唤醒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="1440" width="79" height="50" as="geometry" />
@@ -690,8 +687,21 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-41" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;color: rgb(23 , 26 , 29) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;segoe ui&amp;#34; , , &amp;#34;roboto&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif , &amp;#34;tahoma&amp;#34; , &amp;#34;segoe ui symbolmyanmar text&amp;#34; , ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;telenor电信运营商&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1325" y="2180" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="642" y="2235" as="sourcePoint" />
+            <mxPoint x="770" y="2325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="642" y="2275" />
+              <mxPoint x="770" y="2275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-56" target="-1jfbta0snUhKDycxlzX-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-56" value="AWS NAT网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="676.4299999999998" y="2180" width="83.13" height="50" as="geometry" />
+          <mxGeometry x="600.4399999999998" y="2180" width="83.13" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-80" target="nJZEPm9KAdilQFLufLrE-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -699,26 +709,27 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-80" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-third-system-gateway&lt;br&gt;第三方网关&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="1480" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-83" target="nJZEPm9KAdilQFLufLrE-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-83" target="nJZEPm9KAdilQFLufLrE-85" edge="1">
+        <mxCell id="-1jfbta0snUhKDycxlzX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="868" y="1690" />
-              <mxPoint x="215" y="1690" />
-            </Array>
+            <mxPoint x="514" y="1641" as="targetPoint" />
+            <mxPoint x="804" y="1571" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-83" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-third-system-service&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="1550" width="136" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-85" target="nJZEPm9KAdilQFLufLrE-113" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-1jfbta0snUhKDycxlzX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-85" target="nJZEPm9KAdilQFLufLrE-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="1745" />
+              <mxPoint x="370" y="1820" />
+              <mxPoint x="642" y="1820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-message-sms-servce&lt;br&gt;短信服务故障&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/3as0AQ" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-85">
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-message-sms-servce&lt;br&gt;短信服务&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/3as0AQ" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-85">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="145" y="1760" width="140" height="50" as="geometry" />
+            <mxGeometry x="60" y="1720" width="140" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="nJZEPm9KAdilQFLufLrE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-90" target="nJZEPm9KAdilQFLufLrE-97" edge="1">
@@ -729,17 +740,6 @@
             <mxGeometry x="153" y="1550" width="136" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="nJZEPm9KAdilQFLufLrE-90" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="1450" />
-              <mxPoint x="390" y="1570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="nJZEPm9KAdilQFLufLrE-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-97" target="nJZEPm9KAdilQFLufLrE-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -750,7 +750,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-user-account&lt;br&gt;用户中心服务故障&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/NhfJ" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-97">
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-user-account&lt;br&gt;用户中心服务&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/NhfJ" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-97">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-27" y="1550" width="136" height="40" as="geometry" />
           </mxCell>
@@ -770,10 +770,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-113" value="&lt;font&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;腾讯云短信服务&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;sms.tencentcloudapi.com&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="2330" width="140" height="50" as="geometry" />
+          <mxGeometry x="700" y="2320" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-116" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;当地运营商&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="2420" width="140" height="50" as="geometry" />
+          <mxGeometry x="700" y="2420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=line;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="nJZEPm9KAdilQFLufLrE-123" target="nJZEPm9KAdilQFLufLrE-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -788,8 +788,38 @@
             <mxGeometry x="-23" y="1490" width="136" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nJZEPm9KAdilQFLufLrE-92" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-zt-gateway&lt;br&gt;中台网关故障&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="447" y="1430" width="136" height="40" as="geometry" />
+        <mxCell id="-1jfbta0snUhKDycxlzX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="nJZEPm9KAdilQFLufLrE-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="nJZEPm9KAdilQFLufLrE-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="1665" />
+              <mxPoint x="370" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="nJZEPm9KAdilQFLufLrE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="nJZEPm9KAdilQFLufLrE-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="1700" />
+              <mxPoint x="130" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-92" target="-1jfbta0snUhKDycxlzX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="1700" />
+              <mxPoint x="-121" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJZEPm9KAdilQFLufLrE-92" value="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-zt-gateway&lt;br&gt;中台网关&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="447" y="1645" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;fontColor=#1A1A1A;endArrow=none;endFill=1;strokeColor=default;strokeWidth=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-213" target="nJZEPm9KAdilQFLufLrE-92" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -811,11 +841,34 @@
         <mxCell id="nJZEPm9KAdilQFLufLrE-139" value="&lt;font style=&quot;font-size: 15px&quot;&gt;消息中心&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#D4E1F5;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="231" y="1810" width="79" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nJZEPm9KAdilQFLufLrE-141" target="nJZEPm9KAdilQFLufLrE-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="642" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-message-push-servce&lt;br&gt;发送邮件&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/AQcV" linkTarget="_blank" id="nJZEPm9KAdilQFLufLrE-141">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="-191" y="1790" width="140" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="nJZEPm9KAdilQFLufLrE-143" value="MYSQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="309.0600000000001" y="1940" width="89" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-151" value="MONGODB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="145.0000000000001" y="1940" width="89" height="50" as="geometry" />
+          <mxGeometry x="142.0000000000001" y="1940" width="89" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-1jfbta0snUhKDycxlzX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1jfbta0snUhKDycxlzX-1" target="nJZEPm9KAdilQFLufLrE-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-message-center&lt;br&gt;发送邮件&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/AQcV" linkTarget="_blank" id="-1jfbta0snUhKDycxlzX-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-191" y="1720" width="140" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-1jfbta0snUhKDycxlzX-17" value="&lt;font&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;邮箱服务&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2320" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
