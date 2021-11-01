@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T16:33:14.975Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="gjyRyiTt2yhgaomv-Dln" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T07:06:35.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xdXTbOpfhkOYNnNVg2nU" version="15.6.3" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -42,7 +42,7 @@
           <mxGeometry x="-234.12" y="385" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nJZEPm9KAdilQFLufLrE-10" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="1305" width="1190" height="1425" as="geometry" />
+          <mxGeometry x="1350" y="1305" width="1460" height="1425" as="geometry" />
         </mxCell>
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#1A1A1A;endArrow=classic;endFill=1;strokeColor=#1A1A1A;fillColor=#D4E1F5;strokeWidth=2;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-254" target="6elNYPJr9ZTZkZdLtBfF-184" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -96,7 +96,7 @@
         <mxCell id="6elNYPJr9ZTZkZdLtBfF-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="815" y="382" width="500" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="-6kII226NFBv02iHwysv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000000;dashed=1;" edge="1" parent="1" source="6elNYPJr9ZTZkZdLtBfF-50" target="6elNYPJr9ZTZkZdLtBfF-181">
+        <mxCell id="-6kII226NFBv02iHwysv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000000;dashed=1;" parent="1" source="6elNYPJr9ZTZkZdLtBfF-50" target="6elNYPJr9ZTZkZdLtBfF-181" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="890" />
@@ -847,9 +847,6 @@
             <mxPoint x="3880" y="2750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-1jfbta0snUhKDycxlzX-42" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="2860" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-1jfbta0snUhKDycxlzX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;" parent="1" source="-1jfbta0snUhKDycxlzX-43" target="-1jfbta0snUhKDycxlzX-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -863,13 +860,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-user-community-service&lt;br&gt;社区中心（资讯）&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/-Ir8" linkTarget="_blank" id="-6kII226NFBv02iHwysv-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="55.879999999999995" y="1860" width="140" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;bt-campaigins-manage-service&lt;br&gt;社区中心（活动、文章）&lt;br&gt;&lt;/font&gt;" link="https://wiki.gwmdevops.com/x/-Ir8" linkTarget="_blank" id="-6kII226NFBv02iHwysv-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="55.88" y="1930" width="140" height="50" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="55.88" y="1930" width="164.12" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
